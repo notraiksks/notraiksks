@@ -1,9 +1,12 @@
-# Hi, I'm Notraiksks 👋
+<div align="center">
+# Raiken Ladrera
+</div>
 
 ### About Me
 
 - 🎓 Currently pursuing a **Bachelor of Science in Computer Science** at the **University of San Carlos**.
 - 🌱 Continuously learning, building, and striving to improve.
+- Reach me at `ladrera.raiken@gmail.com`
 
 ## Tech Stack
 
@@ -58,7 +61,3 @@
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Google Workspace" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white&style=for-the-badge" alt="Microsoft 365" />
 </div>
-
----
-
-> Always learning. Always building. Always trying to do better.

@@ -4,8 +4,8 @@
 
 ### About Me
 
-- 🎓 Currently pursuing a **Bachelor of Science in Computer Science** at the **University of San Carlos**.
-- 🌱 Continuously learning, building, and striving to improve.
+- Currently pursuing a **Bachelor of Science in Computer Science** at the **University of San Carlos**.
+- Continuously learning, building, and striving to improve.
 - Reach me at `ladrera.raiken@gmail.com`
 
 ## Tech Stack

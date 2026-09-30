@@ -1,5 +1,5 @@
 <div align="center">
-# Raiken Ladrera
+<h1>Raiken Ladrera</h1>
 </div>
 
 ### About Me
